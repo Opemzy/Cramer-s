@@ -1,0 +1,16 @@
+C:\Users\user\Cramer's\obj\Debug\net5.0\Cramer's.csproj.AssemblyReference.cache
+C:\Users\user\Cramer's\obj\Debug\net5.0\Cramer's.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Cramer's\obj\Debug\net5.0\Cramer's.AssemblyInfoInputs.cache
+C:\Users\user\Cramer's\obj\Debug\net5.0\Cramer's.AssemblyInfo.cs
+C:\Users\user\Cramer's\obj\Debug\net5.0\Cramer's.csproj.CoreCompileInputs.cache
+C:\Users\user\Cramer's\bin\Debug\net5.0\Cramer's.exe
+C:\Users\user\Cramer's\bin\Debug\net5.0\Cramer's.deps.json
+C:\Users\user\Cramer's\bin\Debug\net5.0\Cramer's.runtimeconfig.json
+C:\Users\user\Cramer's\bin\Debug\net5.0\Cramer's.runtimeconfig.dev.json
+C:\Users\user\Cramer's\bin\Debug\net5.0\Cramer's.dll
+C:\Users\user\Cramer's\bin\Debug\net5.0\ref\Cramer's.dll
+C:\Users\user\Cramer's\bin\Debug\net5.0\Cramer's.pdb
+C:\Users\user\Cramer's\obj\Debug\net5.0\Cramer's.dll
+C:\Users\user\Cramer's\obj\Debug\net5.0\ref\Cramer's.dll
+C:\Users\user\Cramer's\obj\Debug\net5.0\Cramer's.pdb
+C:\Users\user\Cramer's\obj\Debug\net5.0\Cramer's.genruntimeconfig.cache
